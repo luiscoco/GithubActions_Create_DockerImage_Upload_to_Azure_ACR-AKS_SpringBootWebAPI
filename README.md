@@ -2,12 +2,24 @@
 
 ## 1. Create a SpringBoot WebAPI in VSCode
 
+See repo: https://github.com/luiscoco/SpringBoot_Sample2-created-WebAPI-with-VSCode
 
 ## 2. Create the Dockerfile
 
+```
+
+```
 
 ## 3. Create deployment.yml and service.yml files
 
+```yaml
+
+```
+
+
+```yaml
+
+```
 
 ## 4. Create Github repository
 
