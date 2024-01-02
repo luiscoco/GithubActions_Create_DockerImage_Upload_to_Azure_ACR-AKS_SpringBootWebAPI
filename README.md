@@ -18,7 +18,16 @@
 ## 6. Create the Github repository secrets (Docker Hub username and password)
 
 
-## 7. 
+## 7. Create the Github Actions Workflow
+
+
+## 8. Verify in Azure Portal the docker image uploaded to Azure ACR
+
+
+
+## 9. Deploy your application docker image to Azure Kubernetes AKS
+
+
 
 
 
